@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "ch01/hello_cargo"
+		},
+		{
+			"path": "ch01/hello_world"
+		},
+		{
+			"path": "ch02/guessing_game"
+		}
+	],
+	"settings": {}
+}
