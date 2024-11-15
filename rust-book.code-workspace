@@ -11,6 +11,9 @@
 		},
 		{
 			"path": "ch02/guessing_game"
+		},
+		{
+			"path": "ch03/variables"
 		}
 	],
 	"settings": {}
