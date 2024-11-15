@@ -17,6 +17,9 @@
 		},
 		{
 			"path": "ch03/shadowing"
+		},
+		{
+			"path": "ch03/numeric_operations"
 		}
 	],
 	"settings": {}
