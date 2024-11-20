@@ -23,6 +23,9 @@
 		},
 		{
 			"path": "ch03/functions"
+		},
+		{
+			"path": "ch03/branches"
 		}
 	],
 	"settings": {}
