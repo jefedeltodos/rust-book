@@ -20,6 +20,9 @@
 		},
 		{
 			"path": "ch03/numeric_operations"
+		},
+		{
+			"path": "ch03/functions"
 		}
 	],
 	"settings": {}
