@@ -26,6 +26,9 @@
 		},
 		{
 			"path": "ch03/branches"
+		},
+		{
+			"path": "ch03/loops"
 		}
 	],
 	"settings": {}
